@@ -1,4 +1,4 @@
-const Profile = require("../../models/Profile")
+const Profile = require("../models/Profile")
 
 const getProfile = async function (req, res) {
     const getFact = await Profile.getCatFacts();

@@ -13,7 +13,7 @@ npm install
 
 1. Clone the repository:
    git clone https://github.com/roland-adams2007/hng_stage0.git
-   
+
 2. Navigate into the project directory:
    cd project-name
 
